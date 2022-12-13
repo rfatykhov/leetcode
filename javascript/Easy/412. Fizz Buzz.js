@@ -49,5 +49,5 @@ var fizzBuzz2 = function (n) {
 		}
 	}
 
-	return output;
+	return answer;
 };
